@@ -8,5 +8,7 @@ public class gitDemo {
         System.out.println("hello!git4!");
         System.out.println("hello!git5!");
         System.out.println("hello!git7!");
+        System.out.println("hello!git5!");
+        System.out.println("hello!git6!");
     }
 }
